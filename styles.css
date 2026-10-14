@@ -8,7 +8,8 @@
 .wrapper{
     width: 100vw;
     height: 100vh;
-    background-image: url(./assets/gradient-bg.jpg);
+    background-color: #242526; /* Adds a dark gray layout baseline */
+    background-image: url('assets/gradient-bg.jpg');
     background-size: cover;
     background-position: center;
     display: grid;
